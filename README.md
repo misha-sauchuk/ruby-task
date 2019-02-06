@@ -3,6 +3,7 @@
   to run this script you must follow next steps:
   
     1. install package nokogiri
-    2. make clone of this repo
-    3. run the script in Terminal with the command: ruby task.rb
+    2. install package curb
+    3. make clone of this repo
+    4. run the script in Terminal with the command: ruby task.rb
   
